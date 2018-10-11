@@ -19,8 +19,8 @@
     <schemaVersion>2.0</schemaVersion>
     <services>
       <service>
-	<name>HUE</name>
-	<displayName>Hue</displayName>
+	<name>HUE3</name>
+	<displayName>Hue3</displayName>
     <comment>Hue is a graphical user interface to operate and develop applications for Apache Hadoop.</comment>
 	<version>3.11.0</version>
 	<components>
